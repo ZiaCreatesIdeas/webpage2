@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
   h1 {
-   color: #ff0000;
+   color: #ff00ff;
  }
